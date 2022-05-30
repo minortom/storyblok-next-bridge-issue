@@ -1,0 +1,22 @@
+{
+  "name": "next-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "demo": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@storyblok/react": "^1.0.6",
+    "axios": "^0.27.2",
+    "next": "^12.1.6",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "volta": {
+    "node": "14.16.1",
+    "npm": "7.12.1"
+  }
+}
